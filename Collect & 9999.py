@@ -1741,4 +1741,3 @@ st.markdown("---")
 st.caption(
     "Collect & 9999 Processor | Streamlit"
 )
-```
